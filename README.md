@@ -1,4 +1,4 @@
-# Software Architect · GDE · Microsoft MVP
+# Software Architect · GDE
 Founder of [**ARKELYTHEX**](https://github.com/arkelythex) — Fiscal Intelligence Infrastructure for LATAM
 
 Building the digital infrastructure that Latin America deserves. 15+ years shipping mission-critical systems for governments, agriculture, and finance.
@@ -19,10 +19,6 @@ The flagship of [ARKELYTHEX](https://github.com/arkelythex). An agentic fiscal o
 - Go CLI + Bubbletea TUI for fiscal operations
 - Python data engine with Polars for high-throughput analytics
 - NATS JetStream event backbone, AI agents via OpenRouter + Gemini
-
-### 🔷 Diggits AI — Accounting Intelligence for Peru
-
-AI-native accounting intelligence that transforms how Peruvian firms handle SUNAT compliance, SIRE reporting, IGV reconciliation, and multi-RUC operations. Evidence-first, audit-ready, built for the real constraints of LATAM infrastructure.
 
 ### 🔷 Dreamcoder Dots
 
