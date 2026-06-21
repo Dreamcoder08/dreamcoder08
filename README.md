@@ -1,5 +1,5 @@
 # Software Architect · GDE · Microsoft MVP
-Founder of [ARKELYTEX](https://github.com/arkelythex) — Civic, Agri & Legal Tech for Peru
+Founder of [ARKELYTHEX](https://github.com/arkelythex) — Civic, Agri & Legal Tech for Peru
 
 Building AI agent ecosystems and digital infrastructure for Latin America. 15+ years shipping systems that governments, farmers, and courts depend on.
 
@@ -13,7 +13,7 @@ I created the **Gentleman AI ecosystem** — tools that teach coding agents to m
 
 ---
 
-## 🏢 ARKELYTEX — Ventures
+## 🏢 ARKELYTHEX — Ventures
 
 A technology studio building digital infrastructure for Peru's most critical sectors.
 
