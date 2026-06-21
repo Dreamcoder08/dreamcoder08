@@ -9,17 +9,18 @@ Building the digital infrastructure that Latin America deserves. 15+ years shipp
 
 I design **audit-first infrastructure** for high-friction markets — fiscal intelligence, electoral integrity, agro-industrial traceability, and AI-augmented governance. My work spans the full stack: from Rust edge devices to AI agent orchestration to sovereign cloud platforms.
 
-### 🔷 Drenyra — The Codex Fiscal Command Center
+### 🔷 Drenyra — The Fiscal Command Center
 
-The flagship of ARKELYTHEX. An agentic fiscal operating system where AI prepares, reviews, and explains accounting work under human supervision — versioned evidence, approval gates, SUNAT/UBL 2.1 compliance built in.
+The flagship of [ARKELYTHEX](https://github.com/arkelythex). An agentic fiscal operating system where AI prepares, reviews, and explains accounting work under human supervision — versioned evidence, approval gates, SUNAT/UBL 2.1 compliance built in.
 
-- React 19 + Bun + Elysia stack
-- Go CLI + Bubbletea TUI
-- Python data engine with Polars
-- NATS JetStream event backbone
-- AI agents via OpenRouter + Gemini
+*Inspired by the vision of Codex App and Diggits AI Accounting — adapted for Peruvian fiscal intelligence.*
 
-### 🔷 Diggits AI — Accountings Intelligence for Peru
+- React 19 + Bun + Elysia — Drenyra SPA (47 routes)
+- Go CLI + Bubbletea TUI for fiscal operations
+- Python data engine with Polars for high-throughput analytics
+- NATS JetStream event backbone, AI agents via OpenRouter + Gemini
+
+### 🔷 Diggits AI — Accounting Intelligence for Peru
 
 AI-native accounting intelligence that transforms how Peruvian firms handle SUNAT compliance, SIRE reporting, IGV reconciliation, and multi-RUC operations. Evidence-first, audit-ready, built for the real constraints of LATAM infrastructure.
 
