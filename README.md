@@ -13,8 +13,6 @@ Sovereign infrastructure at the intersection of **fiscal intelligence**, **civic
 
 Flagship platform of ARKELYTHEX. An agentic fiscal operating system for environments where accuracy is not optional — SUNAT compliance, multi-RUC operations, and evidence-versioned approval workflows.
 
-*Inspired by the engineering philosophies of Palantir, Anduril, OpenAI, and the resilience requirements of LATAM infrastructure.*
-
 ### 🔷 Dreamcoder Dots
 
 Personal Arch Linux environment — health-first terminal ergonomics, adaptive theming, and a workbench philosophy. The terminal as a first-class IDE.
