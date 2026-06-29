@@ -1,45 +1,72 @@
-# Software Architect · GDE
-Founder of [**ARKELYTHEX**](https://github.com/arkelythex)
+<h1 align="center">Dreamcoder08</h1>
+<h3 align="center">Software Architect · GDE</h3>
+<p align="center"><em>Founder — <a href="https://github.com/arkelythex"><strong>ARKELYTHEX</strong></a></em></p>
 
-Building mission-critical infrastructure for Latin America's most demanding sectors.
-
----
-
-## 🏗️ Focus
-
-Sovereign infrastructure at the intersection of **fiscal intelligence**, **civic technology**, and **edge AI systems** — designed for adversarial environments, regulatory complexity, and auditability by default.
-
-### 🔷 Drenyra
-
-Flagship platform of ARKELYTHEX. An agentic fiscal operating system for environments where accuracy is not optional — SUNAT compliance, multi-RUC operations, and evidence-versioned approval workflows.
-
-### 🔷 Dreamcoder Dots
-
-Personal Arch Linux environment — health-first terminal ergonomics, adaptive theming, and a workbench philosophy. The terminal as a first-class IDE.
+<p align="center">
+  <em>Inteligencia Fiscal-Operativa para LATAM · Fiscal-Operational Intelligence for LATAM</em>
+</p>
 
 ---
 
-## 🏢 ARKELYTHEX
+## Sobre Mí · About
 
-| Project | Domain |
-|---------|--------|
-| **Digital Public Peru** | Fiscal transparency and public accountability |
-| **elect-validate** | High-concurrency electoral validation |
-| **EdgeTraz-Agro** | Agro-industrial traceability with edge computing |
-| **AndinoDroneLab** | Autonomous aerial robotics |
-| **Administracion** | Business management for Peruvian enterprises |
+Software architect building mission-critical infrastructure for Latin America's most demanding sectors.
+
+Founder of **ARKELYTHEX** — a fiscal-operational intelligence platform that converts compliance (SUNAT, SIRE, IGV) into an inspectable operating system for accounting firms and multi-RUC enterprises across Peru and LATAM.
+
+**Drenyra** is the flagship — a command center where AI agents prepare, review, and explain accounting work under human supervision, with versioned evidence and approval gates.
+
+ARKELYTHEX is the product venture; Dreamcoder08 is the broader engineering and AI research ecosystem.
 
 ---
 
-## 🧰 Personal
+## 🏢 ARKELYTHEX Ecosystem
+
+> Unificando infraestructura fiscal, visibilidad operacional y flujos de IA agentiva bajo gobernanza humana.
+
+### The Drenyra Command Center
+
+Drenyra es el centro de comando fiscal — no es solo una herramienta, es el workspace donde agentes de IA preparan, revisan y explican el trabajo contable. Siempre bajo supervisión humana. Siempre con evidencia versionada.
+
+- **Fiscal Intelligence, Evidence-First** — Anomalies surface before action. Every decision anchors to versioned evidence.
+- **Continuous Visibility** — Cash-flow, close, reconciliation, and compliance converge in a single command center.
+- **Agentic Work + Approval Gates** — AI agents draft and flag; humans approve. Every interaction captured.
+- **Multi-RUC, Multi-Tenant** — Built for accounting firms managing multiple clients with distinct compliance obligations.
+
+### Products
+
+| Product | Tagline | Status |
+|---------|---------|--------|
+| **Andino** | Agentic AI drone engineering — evolutionary design, simulation, and flight | Phase 1 ~90% |
+| **Estado** | Civic tech open-source para Perú — transparencia municipal audit-first | Dual-MVP, early build |
+| **Kuse** | Open-source, model-agnostic desktop cowork agent (BYOK, local models) | v0.0.2 released |
+| **Senzar** | Agro-industrial traceability con IA + Rust en el edge (ESP32, LoRaWAN) | MVP, pilot validation |
+
+---
+
+## 🛠️ Personal Projects
 
 | Project | Description |
 |---------|-------------|
-| [**Dreamcoder_dots**](https://github.com/Dreamcoder08/Dreamcoder_dots) | Arch Linux dotfiles — terminal-first engineering environment |
 | [**DreamFolio**](https://github.com/Dreamcoder08/DreamFolio) | High-performance portfolio |
-| [**CleanSweep**](https://github.com/Dreamcoder08/CleanSweep) | Declarative environment setup |
-| [**somnyx**](https://github.com/Dreamcoder08/somnyx-web) | Skill-gap analysis platform |
+| [**somnyx-web**](https://github.com/Dreamcoder08/somnyx-web) | Skill-gap analysis platform |
+| [**somnyx-tui**](https://github.com/Dreamcoder08/somnyx-tui) | Terminal client for somnyx |
+| [**dreamcoder-dots**](https://github.com/Dreamcoder08/dreamcoder-dots) | Arch Linux dotfiles — terminal-first engineering environment |
+| [**codex-desktop-linux**](https://github.com/Dreamcoder08/codex-desktop-linux) | Linux desktop for Codex |
 | [**pseint-web-interface**](https://github.com/Dreamcoder08/pseint-web-interface) | Pseudocode learning platform |
+| [**CleanSweep**](https://github.com/Dreamcoder08/CleanSweep) | Declarative environment setup |
+| [**Dream_Arch_Wiki**](https://github.com/Dreamcoder08/Dream_Arch_Wiki) | Architecture knowledge base |
+
+---
+
+## 🗺️ Roadmap · Q3 2026
+
+| Focus | What |
+|-------|------|
+| **Platform** | Monorepo stabilization, CI/CD hardening, test infrastructure, deploy automation |
+| **Products** | Estado MVP launch (Transparency Track A), Senzar PoC (Piura pilot), Kuse v0.3.0, Andino Phase 1 validation |
+| **Drenyra** | Agent instruction parsing, sandboxed execution, evidence graph integration, approval gate MVP |
+| **Docs** | SDD ecosystem documentation, Drenyra user guides, contributor docs |
 
 ---
 
@@ -63,7 +90,7 @@ Personal Arch Linux environment — health-first terminal ergonomics, adaptive t
     <img src="https://img.shields.io/badge/X-@Dreamcoder08-19120c?style=for-the-badge&labelColor=19120c&color=eee0d5" alt="X" />
   </a>
   <a href="https://github.com/arkelythex">
-    <img src="https://img.shields.io/badge/ARKELYTHEX-Infrastructure-19120c?style=for-the-badge&labelColor=19120c&color=00d4ff" alt="ARKELYTHEX" />
+    <img src="https://img.shields.io/badge/ARKELYTHEX-Infrastructure-19120c?style=for-the-badge&labelColor=19120c&color=B97A45" alt="ARKELYTHEX" />
   </a>
 </p>
 
@@ -73,6 +100,10 @@ Personal Arch Linux environment — health-first terminal ergonomics, adaptive t
 
 <p align="center">
   <strong>Building the infrastructure that Latin America deserves.</strong>
+</p>
+
+<p align="center">
+  <small>Part of the <a href="https://github.com/arkelythex/arkelythex/blob/main/sdd/ecosystem-readme-sdd/00-README.md">ARKELYTHEX Ecosystem — SDD Maestro</a></small>
 </p>
 
 <p align="center">
