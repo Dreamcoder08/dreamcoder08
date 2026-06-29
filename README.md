@@ -51,7 +51,7 @@ Drenyra es el centro de comando fiscal — no es solo una herramienta, es el wor
 | [**DreamFolio**](https://github.com/Dreamcoder08/DreamFolio) | High-performance portfolio |
 | [**somnyx-web**](https://github.com/Dreamcoder08/somnyx-web) | Skill-gap analysis platform |
 | [**somnyx-tui**](https://github.com/Dreamcoder08/somnyx-tui) | Terminal client for somnyx |
-| [**dreamcoder-dots**](https://github.com/Dreamcoder08/dreamcoder-dots) | Arch Linux dotfiles — terminal-first engineering environment |
+| [**dreamcoder-dots**](https://github.com/Dreamcoder08/Dreamcoder_dots) | Arch Linux dotfiles — terminal-first engineering environment |
 | [**codex-desktop-linux**](https://github.com/Dreamcoder08/codex-desktop-linux) | Linux desktop for Codex |
 | [**pseint-web-interface**](https://github.com/Dreamcoder08/pseint-web-interface) | Pseudocode learning platform |
 | [**CleanSweep**](https://github.com/Dreamcoder08/CleanSweep) | Declarative environment setup |
