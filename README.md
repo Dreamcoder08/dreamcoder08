@@ -14,7 +14,7 @@ Software architect building mission-critical infrastructure for Latin America's 
 
 Founder of **ARKELYTHEX** — a fiscal-operational intelligence platform that converts compliance (SUNAT, SIRE, IGV) into an inspectable operating system for accounting firms and multi-RUC enterprises across Peru and LATAM.
 
-**Drenyra** is the flagship — a command center where AI agents prepare, review, and explain accounting work under human supervision, with versioned evidence and approval gates.
+**Drenyra** is the flagship — Codex (deterministic fiscal engine) + Digits (user experience). AI agents prepare, review, and explain accounting work under human supervision, with versioned evidence and approval gates.
 
 ARKELYTHEX is the product venture; Dreamcoder08 is the broader engineering and AI research ecosystem.
 
@@ -24,14 +24,14 @@ ARKELYTHEX is the product venture; Dreamcoder08 is the broader engineering and A
 
 > Unificando infraestructura fiscal, visibilidad operacional y flujos de IA agentiva bajo gobernanza humana.
 
-### The Drenyra Command Center
+### Drenyra — Codex + Digits
 
-Drenyra es el centro de comando fiscal — no es solo una herramienta, es el workspace donde agentes de IA preparan, revisan y explican el trabajo contable. Siempre bajo supervisión humana. Siempre con evidencia versionada.
+Drenyra es el producto flagship de ARKELYTHEX. **Codex** es el motor fiscal determinista (SUNAT, RUC, IGV, SIRE, CDR, PLE). **Digits** es la experiencia de usuario (web SPA + CLI). Juntos, un sistema completo de inteligencia fiscal-operativa para Perú y LATAM.
 
-- **Fiscal Intelligence, Evidence-First** — Anomalies surface before action. Every decision anchors to versioned evidence.
-- **Continuous Visibility** — Cash-flow, close, reconciliation, and compliance converge in a single command center.
+- **Codex: Motor Fiscal Determinista** — Reglas SUNAT testables y replayables. Cada output con trail de evidencia completo.
+- **Digits: Experiencia Unificada** — Web SPA (React 19) + CLI (Go + Bubbletea). Cash-flow, close, conciliación y compliance en una interfaz.
 - **Agentic Work + Approval Gates** — AI agents draft and flag; humans approve. Every interaction captured.
-- **Multi-RUC, Multi-Tenant** — Built for accounting firms managing multiple clients with distinct compliance obligations.
+- **Multi-RUC, Multi-Tenant** — Built from day one for accounting firms managing multiple clients with distinct compliance obligations.
 
 ### Products
 
